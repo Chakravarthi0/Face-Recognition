@@ -5,4 +5,4 @@
 
 ## Feature ##
 
-     Detects all the faces that appear infront of the devices camera.
+     Detects all the faces that appear infront of the device's camera.
